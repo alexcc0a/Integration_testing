@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ru.netology.conditionalapp.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.047 s <<< FAILURE! - in ru.netology.conditionalapp.DemoApplicationTests
+ru.netology.conditionalapp.DemoApplicationTests  Time elapsed: 0.046 s  <<< ERROR!
+java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+	at ru.netology.conditionalapp.DemoApplicationTests.setUp(DemoApplicationTests.java:30)
+
